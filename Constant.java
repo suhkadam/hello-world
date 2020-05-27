@@ -9,5 +9,8 @@ package com.test.subway.utility;
 public class Constant {
 	public static final String URL = "https://qe-order.remote-order.com/LoyaltyPilot.aspx?";
 
+	public static final suhas="Suhas";
+	
+
 	public static final kadam= "Kadam";
 }
